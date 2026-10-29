@@ -1,0 +1,6 @@
+{
+  "appId": "com.nimaramezani.gamingdns",
+  "appName": "Gaming DNS",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
